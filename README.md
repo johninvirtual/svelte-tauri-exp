@@ -1,5 +1,8 @@
 # svelte-tauri-exp
 
+## contents
+- game of life
+
 ## run the project using npm
 ```
 npm i

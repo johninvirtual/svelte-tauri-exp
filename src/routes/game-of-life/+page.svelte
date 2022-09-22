@@ -2,6 +2,9 @@
 	import { onMount } from 'svelte';
 	import { invoke } from '@tauri-apps/api';
 
+	/**
+	 * @type {HTMLPreElement}
+	 */
 	let pre;
 
 	onMount(() => {
