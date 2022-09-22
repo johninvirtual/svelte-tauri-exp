@@ -12,3 +12,8 @@
 <div>
 	{result}
 </div>
+<div>
+	<ol>
+		<ul><a href="/game-of-life">Game of Life</a></ul>
+	</ol>
+</div>
