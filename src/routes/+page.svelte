@@ -15,5 +15,6 @@
 <div>
 	<ol>
 		<ul><a href="/game-of-life">Game of Life</a></ul>
+		<ul><a href="/web-midi">Web MIDI</a></ul>
 	</ol>
 </div>

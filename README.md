@@ -2,6 +2,7 @@
 
 ## contents
 - game of life
+- web midi
 
 ## run the project using npm
 ```
